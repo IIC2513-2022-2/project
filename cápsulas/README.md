@@ -4,7 +4,7 @@
 | Nombre        | Video         | Otro material|
 | ------------- | ------------- | ------------- |
 | Guía Máquina Virtual  | -  | [guía](https://github.com/IIC2513-2022-2/project/tree/main/c%C3%A1psulas/gu%C3%ADa%201) |
-| Github como elemento de calidad | [video](https://www.loom.com/share/1a91db8cb45047d1bced18c0f0503794) | [Guia Platanus](https://la-guia.platan.us/setup/proyectos/git), [Contribute Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type), [Branch Conventions](https://idiv-biodiversity.github.io/git-knowledge-base/branch-naming-conventions.html) |
+| Github como elemento de calidad | [video](https://www.loom.com/share/1cdac908489e4979ba0a81fc42186c98) | [Guia Platanus](https://la-guia.platan.us/setup/proyectos/git), [Contribute Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type), [Branch Conventions](https://idiv-biodiversity.github.io/git-knowledge-base/branch-naming-conventions.html) |
 
 ## Back-end
 | Nombre        | Video         | Otro material|
