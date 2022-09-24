@@ -16,7 +16,7 @@
 | Cápsula 5 - Common JS vs ESM | [video](https://www.loom.com/share/dab0a46052fb4012829cf4fd587973af)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/3/commits/21376bddc482354a2383bafcae1ad0ca0ab4fea2) |
 | Cápsula 6 - Configuración Postgres | [video]()  | [guía]() |
 | Cápsula 7 - Sequelize como ORM | [video](https://www.loom.com/share/cea3a164061346a7ab3d964bd487867f)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/3) |
-| Cápsula 8 - Implementación Modelo Parte I | [video](https://www.loom.com/share/18a01b14f69648edafc2a35ad7b70877)  | [modelo]() |
+| Cápsula 8 - Implementación Modelo Parte I | [video](https://www.loom.com/share/18a01b14f69648edafc2a35ad7b70877)  | [modelo](https://github.com/IIC2513-2022-2/project/tree/main/c%C3%A1psulas/c%C3%A1psula%208) |
 | Cápsula 9 - Implementación Modelo Parte II | [video](https://www.loom.com/share/470d132366d547698a299ace48885e48)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/4) |
 | Cápsula 10 - ESLint | [video](https://www.loom.com/share/12fe1b244ae7458b96d1a37b045db06e)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/5), [guía](https://github.com/IIC2513-2022-2/project/tree/main/c%C3%A1psulas/c%C3%A1psula%2010) |
 
