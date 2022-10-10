@@ -32,7 +32,7 @@ ctx.request.body
 Para poder manejar de la mejor forma el comportamiento de los endpoints, recomendamos fuertemente el uso de los status de http, los cuales son útiles para manejar errores y consultas exitosas a la API, facilitando el manejo de las requests en el frontend.
 Los status más comunes se pueden encontrar en: [STATUS CODES LIST](https://rapidapi.com/guides/http-status-code?utm_source=google&utm_medium=cpc&utm_campaign=DSA&gclid=Cj0KCQjw1vSZBhDuARIsAKZlijSg8-KWW5UML9gDiNUrg-pr3XnJPxpIaw6eRoSVByzu39_0piqtKykaAmrqEALw_wcB)
 
-##Conexión Frontend - Backend
+## Conexión Frontend - Backend
 ### Axios
 Axios es una librería de React(por lo que se debe instalar en el frontend) que permite la conexión del backend al frontend mediante requests. Para realizar esto, es importante instalar la librería con el siguiente comando:
 ```
