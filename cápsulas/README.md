@@ -30,7 +30,7 @@
 | Cápsula 3 - Componentes en React parte I  | [video](https://www.loom.com/share/1e3968be99f44cb0a14d85bc7ce19a40)  | - |
 | Cápsula 4 - Componentes en React parte II  | [video](https://www.loom.com/share/22fad33ac4944773ba8e8774b9836024)  | [código](https://github.com/IIC2513-2022-2/dccat-front/pull/1) |
 | Cápsula 5 - Routing en React | [video](https://www.loom.com/share/c479f1c4a54f4dcbb0d3552b4b22e5c6)  | [código](https://github.com/IIC2513-2022-2/dccat-front/pull/2) 
-| Cápsula 6 - Conexión a la API | [video](https://www.loom.com/share/232b9d03f0f445d98ed8d318934df5e2)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/3), [código back](https://github.com/IIC2513-2022-2/dccat-API/pull/6),[guía]()|
+| Cápsula 6 - Conexión a la API | [video](https://www.loom.com/share/232b9d03f0f445d98ed8d318934df5e2)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/3), [código back](https://github.com/IIC2513-2022-2/dccat-API/pull/6),[guía](https://github.com/IIC2513-2022-2/project/tree/main/c%C3%A1psulas/c%C3%A1psula%2012)|
 
 
 
