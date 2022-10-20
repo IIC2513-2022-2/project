@@ -17,10 +17,12 @@
 | Cápsula 6 - Configuración Postgres | [video](https://www.loom.com/share/f648d62b3f304b839728e189f9583ef3)  | - |
 | Cápsula 7 - Sequelize como ORM | [video](https://www.loom.com/share/cea3a164061346a7ab3d964bd487867f)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/3) |
 | Cápsula 8 - Implementación Modelo Parte I | [video](https://www.loom.com/share/18a01b14f69648edafc2a35ad7b70877)  | [modelo](https://github.com/IIC2513-2022-2/project/tree/main/c%C3%A1psulas/c%C3%A1psula%208) |
-| Cápsula 9 - Implementación Modelo Parte II | [video](https://www.loom.com/share/470d132366d547698a299ace48885e48)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/4) |
+| Cápsula 9 - Implementación Modelo Parte II | [video](https://www.loom.com/share/470d132366d547698a299ace48885e48)  | [código original](https://github.com/IIC2513-2022-2/dccat-API/pull/4), [código arreglado](https://github.com/IIC2513-2022-2/dccat-API/pull/9) |
 | Cápsula 10 - ESLint | [video](https://www.loom.com/share/12fe1b244ae7458b96d1a37b045db06e)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/5), [guía](https://github.com/IIC2513-2022-2/project/tree/main/c%C3%A1psulas/c%C3%A1psula%2010) |
 | Cápsula 11 - Sequelize Instances, Querying y Association concepts | [video](https://www.loom.com/share/fc8448af96c44aa7b593a0a12d9c3b50)  | [Manual Sequelize](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/)|
-
+| Cápsula 12 - Hash de contraseñas con bcrypt | [video](https://www.loom.com/share/4a68975a5dbe43bab85982da97b0f12b)  | [Bcrypt](https://www.npmjs.com/package/bcrypt), [Hashing en validaciones](https://stackoverflow.com/questions/34120548/using-bcrypt-with-sequelize-model)|
+| Cápsula 13 - Manejo de sesión con koa-session | [video](https://www.loom.com/share/46b06ac0acc947ecacc9b43ad2ac4287)  | [koa-session](https://www.npmjs.com/package/koa-session), [session vs jwt](https://medium.com/@prashantramnyc/difference-between-session-cookies-vs-jwt-json-web-tokens-for-session-management-4be67d2f066e)|
+| Cápsula 14 - Autorización con jwt | [video](https://www.loom.com/share/a6b41e5bdca446f69987cf1431200b41)  | [jwt](https://jwt.io/), [koa-jwt](https://www.npmjs.com/package/koa-jwt), [koa-unless](https://github.com/Foxandxss/koa-unless)|
 
 ## Front-end
 | Nombre        | Video         | Otro material|
