@@ -23,6 +23,8 @@
 | Cápsula 12 - Hash de contraseñas con bcrypt | [video](https://www.loom.com/share/4a68975a5dbe43bab85982da97b0f12b)  | [Bcrypt](https://www.npmjs.com/package/bcrypt), [Hashing en validaciones](https://stackoverflow.com/questions/34120548/using-bcrypt-with-sequelize-model)|
 | Cápsula 13 - Manejo de sesión con koa-session | [video](https://www.loom.com/share/46b06ac0acc947ecacc9b43ad2ac4287)  | [koa-session](https://www.npmjs.com/package/koa-session), [session vs jwt](https://medium.com/@prashantramnyc/difference-between-session-cookies-vs-jwt-json-web-tokens-for-session-management-4be67d2f066e)|
 | Cápsula 14 - Autorización con jwt | [video](https://www.loom.com/share/a6b41e5bdca446f69987cf1431200b41)  | [jwt](https://jwt.io/), [koa-jwt](https://www.npmjs.com/package/koa-jwt), [koa-unless](https://github.com/Foxandxss/koa-unless)|
+| Cápsula 15 - Deploy a Heroku | [video](https://www.loom.com/share/6669cb41118f49a0afa018bad8bfe00b)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/7), [heroku](https://www.heroku.com/platform)|
+
 
 ## Front-end
 | Nombre        | Video         | Otro material|
@@ -33,6 +35,11 @@
 | Cápsula 4 - Componentes en React parte II  | [video](https://www.loom.com/share/22fad33ac4944773ba8e8774b9836024)  | [código](https://github.com/IIC2513-2022-2/dccat-front/pull/1) |
 | Cápsula 5 - Routing en React | [video](https://www.loom.com/share/c479f1c4a54f4dcbb0d3552b4b22e5c6)  | [código](https://github.com/IIC2513-2022-2/dccat-front/pull/2) 
 | Cápsula 6 - Conexión a la API | [video](https://www.loom.com/share/232b9d03f0f445d98ed8d318934df5e2)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/3), [código back](https://github.com/IIC2513-2022-2/dccat-API/pull/6),[guía](https://github.com/IIC2513-2022-2/project/tree/main/c%C3%A1psulas/c%C3%A1psula%2012)|
+| Cápsula 7 - Intro a Hooks en React | [video](https://www.loom.com/share/b42e66f7b76941eba3dd39e17a365a7c)  |[hooks API Reference](https://reactjs.org/docs/hooks-reference.html)|
+| Cápsula 8 - Hooks: UseSate | [video](https://www.loom.com/share/cf42d04ecd9944d9a7b994817368c268)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/4)|
+| Cápsula 9 - Hooks: UseEffect | [video](https://www.loom.com/share/5e580ca5c926475481e3c17c94cca929)  | [código](https://github.com/IIC2513-2022-2/dccat-front/pull/4)|
+| Cápsula 10 - Manejo de sesión con cookies en react| [video](https://www.loom.com/share/8cd70d0075874f07b00570f3261c74e7)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/5#pullrequestreview-1150115622)|
+| Cápsula 11 - Manejo de autorización con jwt en react| [video](https://www.loom.com/share/986d6cbfd93846e691c147e1e5584e8f)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/5#pullrequestreview-1150115622)|
 
 
 
