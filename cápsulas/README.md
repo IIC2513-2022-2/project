@@ -24,6 +24,8 @@
 | Cápsula 13 - Manejo de sesión con koa-session | [video](https://www.loom.com/share/46b06ac0acc947ecacc9b43ad2ac4287)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/12/), [koa-session](https://www.npmjs.com/package/koa-session), [session vs jwt](https://medium.com/@prashantramnyc/difference-between-session-cookies-vs-jwt-json-web-tokens-for-session-management-4be67d2f066e)|
 | Cápsula 14 - Autorización con jwt | [video](https://www.loom.com/share/a6b41e5bdca446f69987cf1431200b41)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/12/), [jwt](https://jwt.io/), [koa-jwt](https://www.npmjs.com/package/koa-jwt), [koa-unless](https://github.com/Foxandxss/koa-unless)|
 | Cápsula 15 - Deploy a Heroku | [video](https://www.loom.com/share/6669cb41118f49a0afa018bad8bfe00b)  | [código](https://github.com/IIC2513-2022-2/dccat-API/pull/7), [heroku](https://www.heroku.com/platform)|
+| Cápsula 16 - Testing con Jest | [video](https://www.loom.com/share/ee2d864abaf74f90a3608781ab393c4f)  | - |
+
 
 
 ## Front-end
@@ -40,6 +42,7 @@
 | Cápsula 9 - Hooks: UseEffect | [video](https://www.loom.com/share/5e580ca5c926475481e3c17c94cca929)  | [código](https://github.com/IIC2513-2022-2/dccat-front/pull/4)|
 | Cápsula 10 - Manejo de sesión con cookies en react| [video](https://www.loom.com/share/8cd70d0075874f07b00570f3261c74e7)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/5#pullrequestreview-1150115622)|
 | Cápsula 11 - Manejo de autorización con jwt en react| [video](https://www.loom.com/share/986d6cbfd93846e691c147e1e5584e8f)  | [código front](https://github.com/IIC2513-2022-2/dccat-front/pull/5#pullrequestreview-1150115622)|
+| Cápsula 12 - Deploy a Netlify| [video](https://drive.google.com/file/d/1eiC0iQEqETUtb_w9ykAoqhAYc5wfkeJ0/view)  | - |
 
 
 
